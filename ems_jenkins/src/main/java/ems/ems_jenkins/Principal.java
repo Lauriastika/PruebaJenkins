@@ -8,6 +8,9 @@ public  class Principal {
         int max_length = 0;
         int index = 0;
         String max_sub = "";
+		String cadena;
+		
+		cadena = "hola";
         
         if (s1.length() >= s2.length()) {
             longest = s1;
